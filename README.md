@@ -35,8 +35,7 @@ Open the URL printed in the terminal (usually `http://localhost:5173`) to view t
 
 ### Live demo
 
-Live demo link: `https://your-live-demo-url.com`  
-(Replace this with the actual deployed URL once hosted.)
+Live demo link: `https://educase-india-seven.vercel.app`
 
 ### License
 

@@ -33,11 +33,9 @@ npm run preview
 
 ### Live Demo
 
-Live demo link: `https://your-live-demo-url.com`  
-(Replace with your actual deployed URL.)
+Live demo link: `https://educase-india-seven.vercel.app`  
 
 ### GitHub Repository
 
-GitHub repo link: `https://github.com/your-username/popx-mobile-ui`  
-(Replace with your actual repository URL.)
+GitHub repo link: `https://github.com/Khushi84670/Educase-india`
 
