@@ -42,7 +42,7 @@ Open the URL printed in the terminal (usually `http://localhost:5173`) to view t
 
 ### Live demo
 
-Live demo link: `[https://educase-india-seven.vercel.app](https://educase-india-eevsx9k2u-khushi84670s-projects.vercel.app)`
+Live demo link: `https://educase-india-self-sigma.vercel.app/`
 
 ### License
 
