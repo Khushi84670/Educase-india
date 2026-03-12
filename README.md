@@ -33,6 +33,13 @@ npm run dev
 
 Open the URL printed in the terminal (usually `http://localhost:5173`) to view the UI.
 
+### Deploy on Vercel
+
+1. Import this repo in [Vercel](https://vercel.com) (New Project → Import Git).
+2. In **Settings → General**, set **Root Directory** to `popx-mobile-ui` (required).
+3. Leave **Build Command** as `npm run build` and **Output Directory** as `dist`.
+4. Deploy; Vercel will auto-deploy on every push to `main`.
+
 ### Live demo
 
 Live demo link: `https://educase-india-seven.vercel.app`
